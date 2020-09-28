@@ -1,3 +1,4 @@
-This is a updated file
-This is a sample text.
-Updated on github remote
+The difference between add, commit, and push:
+The add command makes the unstaged file to be staged and ready to be committed.
+The commit command creates a new revision with log and saved your changes in the local repository.
+The push command lets your changes appear on the remote repository
