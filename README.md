@@ -1,4 +1,5 @@
 # Git Basics
+# Updated by Justine Encarnacion
 
 This practice will help you get comfortable with basic git operations: making changes and publishing them.
 
